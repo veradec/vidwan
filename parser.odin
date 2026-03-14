@@ -1,6 +1,6 @@
 // #+feature dynamic-literals
 
-package snowden_parser
+package vidwan
 import "core:fmt"
 import "core:os"
 import "core:strings"

@@ -1,4 +1,4 @@
-package snowden_parser
+package vidwan
 
 import "core:fmt"
 import "core:strconv"
